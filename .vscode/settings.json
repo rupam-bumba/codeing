@@ -1,0 +1,10 @@
+{
+    
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[java]": {
+      "editor.defaultFormatter": null
+    }
+    
+}
+
